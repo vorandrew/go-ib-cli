@@ -1,0 +1,28 @@
+{
+  Key: ib.PositionKey {
+    AccountCode: "U1130812",
+    ContractID: 120549942
+  },
+  Contract: ib.Contract {
+    ContractID: 120549942,
+    Symbol: "AAPL",
+    SecurityType: "CFD",
+    Expiry: "",
+    Strike: 0,
+    Right: "",
+    Multiplier: "",
+    Exchange: "",
+    Currency: "USD",
+    LocalSymbol: "AAPLn",
+    TradingClass: "AAPL",
+    PrimaryExchange: "",
+    IncludeExpired: false,
+    SecIDType: "",
+    SecID: "",
+    ComboLegsDescription: "",
+    ComboLegs: [] ib.ComboLeg(nil),
+    UnderComp: ( * ib.UnderComp)(nil)
+  },
+  Position: 1,
+  AverageCost: 109.2693
+}
