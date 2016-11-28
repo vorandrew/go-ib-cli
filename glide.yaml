@@ -1,0 +1,3 @@
+package: github.com/santacruz123/go-ib-cli
+import:
+- package: github.com/gofinance/ib
